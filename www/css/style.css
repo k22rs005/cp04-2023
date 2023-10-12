@@ -6,15 +6,10 @@
 
     button {
         color:  blue;
-    }
-
-    Button {
         font-family: Times;
-    }
-    
-    Button {
         border-radius: 20px;
     }
+
 
     #minuteStr {
         color: #ff0000;
